@@ -1,0 +1,13 @@
+# virtualenv
+venv
+
+# image files
+*.jpg
+*.jpeg
+*.png
+
+# Python
+__pycache__
+
+# Visual Studio Code
+.vscode
